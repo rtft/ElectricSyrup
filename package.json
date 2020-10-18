@@ -1,0 +1,22 @@
+{
+  "name": "electricsyrup",
+  "version": "1.0.0",
+  "description": "Syrup with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtft/ElectricSyrup.git"
+  },
+  "author": "rtft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtft/ElectricSyrup/issues"
+  },
+  "homepage": "https://github.com/rtft/ElectricSyrup#readme",
+  "dependencies": {
+    "electron": "^10.1.3"
+  }
+}
